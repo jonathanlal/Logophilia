@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "logophilia-1385",
+  "private_key_id": "59e3d34bd9346bdfe58d8c2155780b0285e2004c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC6soQJmwe1VF5g\n1fVbZoNh9yxb5elbBxI3Ji85Acps8fDBp1bh9sKNijngEpw9k9TTdR3Yd1nocLnd\n5zDRnJrT0eU+izjBAl/+HIIdH7fq+w4nAek9mLcPzMZkOJMIcv8v+64l5epzjA1j\nag18cPcj7ckwOVyLDGzews28TizvvGbCSdUGdaOuDx/rtTpDrC1EKqmKVRjFfPod\neaJ217ZHjj95M4O76dJNa8eAXw/bq7jF5ZqnXpkUOx6V2UHXnrIadIJK+pbox65l\nNOIT9xANamARpHTSjKy4t5Ll2dvQB5eHQSdvDSOANSuKCdo8wjPHlvnmxSDEW96M\nBJOikuW1AgMBAAECggEAQzXK1M5ryvqRc1jzGDFicN0Tqg2toWh9RT9I1sPvRKMg\nogaE/5ne1ieByEnK11wlzO4njWsCAey67MiyyXMQRdsVJRvnlYwuVIOcz7FAe6Zf\npOlKNzOIC3cToLbBL9R+S57WRaxsZ6Zul3BxZHAieFu9BtBPoXsaomMMv5KBGNhj\nUyMg+Blsvq0iMiPQe+xn2wfoDY+lOGJammh5tDgKae4mTn5ztLLcarIgkxDnVjti\nWEcaJdn5r8P6rHcpqQO/kT5MKo4qpWjCtXRmzy/IHL4hZUZ9dfLCQM7wQZDiL06Z\nPqJk1Ky2Q7+ukBVlwR00ZhxkV5f5Hfxoo3pBXSX/DQKBgQDtPiIsNKWz3EqrIy8Y\n99q1HPb3PSKeKNsPMRnfgIdf9WtDeF1X2m9AyeXBhmG/HCsXugXrnp4a3oVc1ruJ\n7K8n21yYrBhqUL/U5jlUjh/C71iUKy16nSE/zpVrjUr/NXKL04hLX8Hh6mBTwrY5\nmeOrdL8e/8WjHAwM8+G6yhVprwKBgQDJdVP2K+w/dldHL4/Vq3fYXIDHXlVrpgBR\nlYvNoba/9p2uZzGTSTzWcStMQ93YFkoId8SeFf/PzIFlxXnyo8A2wu47DnqlTSgV\n7pSkY8CsoVlmCmG5SMkj+yUrY0QixelLk9M1+oJQLKgJfPThkmuK1mjvP1zMiA7Q\n/6ynAQ6T2wKBgQCdCsIoLPl7I9mxi2rDxl3aAcBhTPC7bSQE3GXaEwSJurU0RlrT\nqt52Lq+N+Vx+2zCTVipRHABgnOf+2o3t8OTJJ2YWEeVfivBRB8zvcd0IdtNV0Xcb\ncSPvTtqOBUudwE2AzZes/UgkObdl+sARRRL2DiPtazXykMBRWqcTtG2UNQKBgQCh\nGOCuT0tZKFH8y8zSSY7Jhpc4VngqYBGLK/Ii2rlf4l8PUtfy9rLerJq6Ht8s6A4F\nnXiuDduFmPy0nGi7HjUb1V9Z/GcY/o0alLFqj5ZItbHehljFKK4nxrJfcr7Oq8K2\nPBy+4ncIk90/0RulskerO2+oOdwEdpyahonS9mZo1wKBgDU321lINygFvSUa9+q8\nmOoMMsXMOhUmq1UTDmr9MT1Yh6NIbEUwJkeisbR1pDbCguKGxhv+qA84j+oMC+Zq\nmK4LF1o53i28v1NdDXD0y29P6oAwwl+1fnRzuzMecx7DEKg2eZTlgxtzr+SDb1kJ\nULqBFKwempLE/gGSPa+k63px\n-----END PRIVATE KEY-----\n",
+  "client_email": "logophilia-1385@appspot.gserviceaccount.com",
+  "client_id": "103299475937334553145",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/logophilia-1385%40appspot.gserviceaccount.com"
+}
